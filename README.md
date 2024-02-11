@@ -1,10 +1,7 @@
 # Hi there 👋
 
-<hr style="border: 1px solid grey;">
 
 ## Skills & Experience:
-
-<hr style="border: 1px solid grey;">
 
 majo
 
