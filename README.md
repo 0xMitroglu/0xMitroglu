@@ -1,6 +1,13 @@
-### Hi there 👋
-# test
-##### test
+# Hi there 👋
+
+<hr style="border: 1px solid grey;">
+
+## Skills & Experience:
+
+<hr style="border: 1px solid grey;">
+
+majo
+
 <!--
 **0xMitroglu/0xMitroglu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
